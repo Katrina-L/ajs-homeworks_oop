@@ -1,5 +1,5 @@
 import Character from "../character";
-import Bowerman from "../characters/Bowerman";
+import Bowerman from "../characters/bowerman";
 
 test ("Testing the class Character error of name", () => {
     expect( () => {
